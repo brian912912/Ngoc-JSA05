@@ -1,0 +1,11 @@
+#ip{background-color: aquamarine;
+display: flex;
+justify-content: center ;
+margin-left: 610px;
+margin-right: 610px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+input.hover{ border: 3px;
+color: aqua;
+}
