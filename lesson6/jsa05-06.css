@@ -1,0 +1,7 @@
+div{ 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 900px;
+    margin-left: 280px;
+}
